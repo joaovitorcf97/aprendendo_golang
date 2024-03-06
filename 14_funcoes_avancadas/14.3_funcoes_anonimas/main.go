@@ -6,5 +6,4 @@ func main() {
 	func(texto string) {
 		fmt.Printf("Hello %s", texto)
 	}("world!")
-
 }
